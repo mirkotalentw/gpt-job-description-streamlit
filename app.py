@@ -31,6 +31,7 @@ Establish a hierarchy of duties by starting with the most important ones and end
 Round off the section with information on strategic topics, the level of operational responsibility and/or current projects
 The job description should be written in a way that is easy to understand and free of jargon. It should be tailored to the target group and should not contain any unnecessary information. Also, should not be too long or too short (it should contain in range 200-250 words).
 It should NOT CONTAINT the summary at the end.
+Do not include  any information about the company or the team in the job description. Do not include about project or company culture.
 """
 
 system_instruction_2 = """
